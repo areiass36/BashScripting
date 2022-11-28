@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#This script is a alias for using ntfy cli
+#so I don't have to remember the command how to use it
 topicBaseName="barretoareias"
 title="$1"
 topic="$topicBaseName-$title"
